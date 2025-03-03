@@ -1,13 +1,16 @@
-██████╗ ██████╗ ███████╗ █████╗ ███╗   ███╗██╗   ██╗███████╗██╗ █████╗ 
-██╔══██╗██╔══██╗██╔════╝██╔══██╗████╗ ████║██║   ██║██╔════╝██║██╔══██╗
-██║  ██║██████╔╝█████╗  ███████║██╔████╔██║██║   ██║█████╗  ██║███████║
-██║  ██║██╔══██╗██╔══╝  ██╔══██║██║╚██╔╝██║╚██╗ ██╔╝██╔══╝  ██║██╔══██║
-██████╔╝██║  ██║███████╗██║  ██║██║ ╚═╝ ██║ ╚████╔╝ ██║     ██║██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═══╝  ╚═╝     ╚═╝╚═╝  ╚═╝       
+DREAMVFIA_ASCII_ART = """
+█▀▄ █▀█ █▀▀ █▀█ █▀▄▀█ █░█ █▀▀ █ █▀█
+█▄▀ █▀▄ ██▄ █▀█ █░▀░█ ▀▄▀ █▀░ █ █▀█
+"""
 
-DREAMVFIA QUANTUM SUPREME TECHNOLOGY
-SECURITY LEVEL: SSS+++
+def print_logo():
+    print(DREAMVFIA_ASCII_ART)
+    print("QUANTUM SUPREME SYSTEM V9.9.9")
+    print("━" * 35)
 
+# 使用示例
+if __name__ == "__main__":
+    print_logo()
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-DREAMVFIA-blue)](https://www.dreamvfia.cn)
