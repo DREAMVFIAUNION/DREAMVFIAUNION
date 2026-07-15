@@ -59,7 +59,7 @@
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │  🌐 Web Portal  : https://dreamvfia.cn/ (CN) | https://dreamvfia.cn/en/ (EN)  │
-│  📧 Secure Mail : dreamvfia.union@gmail.com                                  │
+│  📧 Secure Mail : dreamvfiaunion@gmail.com                                  │
 │  🐙 GitHub      : @DREAMVFIAUNION                                            │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
